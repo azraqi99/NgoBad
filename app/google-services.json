@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "981662832876",
+    "firebase_url": "https://myapplication-f50ca.firebaseio.com",
+    "project_id": "myapplication-f50ca",
+    "storage_bucket": "myapplication-f50ca.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:981662832876:android:13c3c6a65bcbec53",
+        "android_client_info": {
+          "package_name": "com.project.ngopi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "981662832876-1u7ps8o8b62eha7iuja12ljmhilda7lu.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.project.ngopi",
+            "certificate_hash": "bd4bc18b74e2524165e834dd7089a64828ff0a60"
+          }
+        },
+        {
+          "client_id": "981662832876-ljdnbe79fteddrl18jlmm4v1m5mlg322.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDsUpwmEEXfvbQhjS9CRuBMftprsqNarfo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "981662832876-ljdnbe79fteddrl18jlmm4v1m5mlg322.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
